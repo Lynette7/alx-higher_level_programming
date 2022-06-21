@@ -4,8 +4,7 @@
 
 class Square:
     """Represents a square.
-	Attributes: 
-	__size(int): size of the side of the square
+    Private instance attribute: size. 
     Instantiation with size (no type/value verification).
     """
 
