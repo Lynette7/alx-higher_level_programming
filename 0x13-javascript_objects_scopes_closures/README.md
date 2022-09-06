@@ -10,3 +10,6 @@
 - 8-esrever.js: JS function that returns the reversed version of a list
 - 9-logme.js: JS function that prints the number of arguments already printed and the new argument value
 - 10-converter.js: JS function that converts a number from base 10 to another base passed as argument
+- 100-map.js: JS script that imports an array and computes a new array
+- 101-sorted.js: JS script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence
+- 102-concat.js: JS script that concats 2 files
