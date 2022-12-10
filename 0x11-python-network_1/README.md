@@ -1,0 +1,11 @@
+- 0-hbtn_status.py: Python script that fetches https://alx-intranet.hbtn.io/status using urllib.
+- 1-hbtn_header.py: Python script that displays the X-Request-Id response header variable of a request to a given URL.
+- 2-post_email.py: Python script that sends a POST request to a given URL with a given email, and displays the response body.
+- 3-error_code.py: Python script sends a request to a given URL and displays the response body.
+- 4-hbtn_status.py: Python script that fetches https://alx-intranet.hbtn.io/status.
+- 5-hbtn_header.py: Python script that displays the X-Request-Id response header variable of a request to a given URL.
+- 6-post_email.py: Python script that sends a POST request to a given URL with a given email, and displays the response body.
+- 7-error_code.py: Python script sends a request to a given URL and displays the response body.
+- 8-json_api.py: Python script that sends a POST request to http://0.0.0.0:5000/search_user with a letter passed as parameter.
+- 10-my_github.py: Python script that takes GitHub credentials (username and password) and uses the Github API to display the corresponding ID.
+- 100-github_commits.py: Python script that lists the 10 most recent comments of a given GitHub repository using the GitHub API.
